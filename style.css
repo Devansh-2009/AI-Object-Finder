@@ -27,10 +27,3 @@ canvas{
     margin-top: 130px;
     box-shadow: 5px 5px 5px white;
 }
-#objectname{
-    color: white;
-}
-#text_area{
-    height: 35px;
-    width: 550px;
-}
